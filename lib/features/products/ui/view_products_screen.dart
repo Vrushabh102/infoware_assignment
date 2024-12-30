@@ -11,7 +11,7 @@ class ProductViewScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text('Product View'),
-        backgroundColor: Colors.green,
+        backgroundColor: Colors.red,
       ),
       body: SingleChildScrollView(
         child: Column(
