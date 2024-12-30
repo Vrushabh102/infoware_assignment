@@ -1,16 +1,15 @@
-# infoware_flutter_assignment
+<h3> 
+Infoware assignment app
+</h3>
 
-A new Flutter project.
+Form validation
+Api call
+Bloc state management
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div style="padding-top: 20px; padding-bottom: 8px; padding-left: 16px; padding-right: 16px;">
+    <img src="https://github.com/Vrushabh102/infoware_assignment/blob/master/assets/IMG-20241230-WA0019.jpg" width="175" height="380">
+    <img src="https://github.com/Vrushabh102/infoware_assignment/blob/master/assets/IMG-20241230-WA0018.jpg" width="175" height="380">
+    <img src="https://github.com/Vrushabh102/infoware_assignment/blob/master/assets/IMG-20241230-WA0016.jpg" width="175" height="380">
+    <img src="https://github.com/Vrushabh102/infoware_assignment/blob/master/assets/IMG-20241230-WA0015.jpg" width="175" height="380">
+</div>
